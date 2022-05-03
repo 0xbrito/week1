@@ -1,6 +1,6 @@
 # zku-c3-week1-q2
 
-Instalsl the required node modules by running:
+Install the required node modules by running:
 ```shell
 npm install
 ```
